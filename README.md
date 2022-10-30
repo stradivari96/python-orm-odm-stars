@@ -34,9 +34,6 @@ A list of popular github projects related to Python ORMs and ODMs (ranked by sta
 - [alembic](https://github.com/sqlalchemy/alembic): A database migrations tool for SQLAlchemy. 
 
   [![GitHub stars](https://img.shields.io/github/stars/sqlalchemy/alembic.svg?style=social)](https://github.com/sqlalchemy/alembic) [![GitHub issues](https://img.shields.io/github/issues/sqlalchemy/alembic.svg)](https://github.com/sqlalchemy/alembic/issues) [![Downloads](https://img.shields.io/pypi/dw/alembic)](https://pypi.org/project/alembic/) [![GitHub last commit](https://img.shields.io/github/last-commit/sqlalchemy/alembic)](https://github.com/sqlalchemy/alembic/commits) 
-- [orator](https://github.com/sdispater/orator): The Orator ORM provides a simple yet beautiful ActiveRecord implementation. 
-
-  [![GitHub stars](https://img.shields.io/github/stars/sdispater/orator.svg?style=social)](https://github.com/sdispater/orator) [![GitHub issues](https://img.shields.io/github/issues/sdispater/orator.svg)](https://github.com/sdispater/orator/issues) [![Downloads](https://img.shields.io/pypi/dw/orator)](https://pypi.org/project/orator/) [![GitHub last commit](https://img.shields.io/github/last-commit/sdispater/orator)](https://github.com/sdispater/orator/commits) 
 - [ormar](https://github.com/collerek/ormar): python async orm with fastapi in mind and pydantic validation 
 
   [![GitHub stars](https://img.shields.io/github/stars/collerek/ormar.svg?style=social)](https://github.com/collerek/ormar) [![GitHub issues](https://img.shields.io/github/issues/collerek/ormar.svg)](https://github.com/collerek/ormar/issues) [![Downloads](https://img.shields.io/pypi/dw/ormar)](https://pypi.org/project/ormar/) [![GitHub last commit](https://img.shields.io/github/last-commit/collerek/ormar)](https://github.com/collerek/ormar/commits) 
@@ -55,11 +52,17 @@ A list of popular github projects related to Python ORMs and ODMs (ranked by sta
 - [umongo](https://github.com/Scille/umongo): sync/async MongoDB ODM, yes. 
 
   [![GitHub stars](https://img.shields.io/github/stars/Scille/umongo.svg?style=social)](https://github.com/Scille/umongo) [![GitHub issues](https://img.shields.io/github/issues/Scille/umongo.svg)](https://github.com/Scille/umongo/issues) [![Downloads](https://img.shields.io/pypi/dw/umongo)](https://pypi.org/project/umongo/) [![GitHub last commit](https://img.shields.io/github/last-commit/Scille/umongo)](https://github.com/Scille/umongo/commits) 
+- [orm](https://github.com/MasoniteFramework/orm): Masonite ORM is a beautiful Python ORM. It's also a nearly drop in replacement of the Orator ORM 
+
+  [![GitHub stars](https://img.shields.io/github/stars/MasoniteFramework/orm.svg?style=social)](https://github.com/MasoniteFramework/orm) [![GitHub issues](https://img.shields.io/github/issues/MasoniteFramework/orm.svg)](https://github.com/MasoniteFramework/orm/issues) [![Downloads](https://img.shields.io/pypi/dw/masonite-orm)](https://pypi.org/project/masonite-orm/) [![GitHub last commit](https://img.shields.io/github/last-commit/MasoniteFramework/orm)](https://github.com/MasoniteFramework/orm/commits) 
 
 ⚠️ No longer maintained ⚠️
 
+- [orator](https://github.com/sdispater/orator): The Orator ORM provides a simple yet beautiful ActiveRecord implementation. 
+
+  [![GitHub stars](https://img.shields.io/github/stars/sdispater/orator.svg?style=social)](https://github.com/sdispater/orator) [![GitHub issues](https://img.shields.io/github/issues/sdispater/orator.svg)](https://github.com/sdispater/orator/issues) [![Downloads](https://img.shields.io/pypi/dw/orator)](https://pypi.org/project/orator/) [![GitHub last commit](https://img.shields.io/github/last-commit/sdispater/orator)](https://github.com/sdispater/orator/commits) 
 - [mongodb-engine](https://github.com/django-nonrel/mongodb-engine): Django MongoDB Backend 
 
   [![GitHub stars](https://img.shields.io/github/stars/django-nonrel/mongodb-engine.svg?style=social)](https://github.com/django-nonrel/mongodb-engine) [![GitHub issues](https://img.shields.io/github/issues/django-nonrel/mongodb-engine.svg)](https://github.com/django-nonrel/mongodb-engine/issues) [![Downloads](https://img.shields.io/pypi/dw/django-mongodb-engine)](https://pypi.org/project/django-mongodb-engine/) [![GitHub last commit](https://img.shields.io/github/last-commit/django-nonrel/mongodb-engine)](https://github.com/django-nonrel/mongodb-engine/commits) 
 
-*Last Automatic Update: 2022-10-30T23:52:45*
+*Last Automatic Update: 2022-10-30T23:56:46*
