@@ -34,12 +34,18 @@ A list of popular github projects related to Python ORMs and ODMs (ranked by sta
 - [alembic](https://github.com/sqlalchemy/alembic): A database migrations tool for SQLAlchemy. 
 
   [![GitHub stars](https://img.shields.io/github/stars/sqlalchemy/alembic.svg?style=social)](https://github.com/sqlalchemy/alembic) [![GitHub issues](https://img.shields.io/github/issues/sqlalchemy/alembic.svg)](https://github.com/sqlalchemy/alembic/issues) [![Downloads](https://img.shields.io/pypi/dw/alembic)](https://pypi.org/project/alembic/) [![GitHub last commit](https://img.shields.io/github/last-commit/sqlalchemy/alembic)](https://github.com/sqlalchemy/alembic/commits) 
+- [orator](https://github.com/sdispater/orator): The Orator ORM provides a simple yet beautiful ActiveRecord implementation. 
+
+  [![GitHub stars](https://img.shields.io/github/stars/sdispater/orator.svg?style=social)](https://github.com/sdispater/orator) [![GitHub issues](https://img.shields.io/github/issues/sdispater/orator.svg)](https://github.com/sdispater/orator/issues) [![Downloads](https://img.shields.io/pypi/dw/orator)](https://pypi.org/project/orator/) [![GitHub last commit](https://img.shields.io/github/last-commit/sdispater/orator)](https://github.com/sdispater/orator/commits) 
 - [ormar](https://github.com/collerek/ormar): python async orm with fastapi in mind and pydantic validation 
 
   [![GitHub stars](https://img.shields.io/github/stars/collerek/ormar.svg?style=social)](https://github.com/collerek/ormar) [![GitHub issues](https://img.shields.io/github/issues/collerek/ormar.svg)](https://github.com/collerek/ormar/issues) [![Downloads](https://img.shields.io/pypi/dw/ormar)](https://pypi.org/project/ormar/) [![GitHub last commit](https://img.shields.io/github/last-commit/collerek/ormar)](https://github.com/collerek/ormar/commits) 
 - [beanie](https://github.com/roman-right/beanie): Python ODM for MongoDB 
 
   [![GitHub stars](https://img.shields.io/github/stars/roman-right/beanie.svg?style=social)](https://github.com/roman-right/beanie) [![GitHub issues](https://img.shields.io/github/issues/roman-right/beanie.svg)](https://github.com/roman-right/beanie/issues) [![Downloads](https://img.shields.io/pypi/dw/beanie)](https://pypi.org/project/beanie/) [![GitHub last commit](https://img.shields.io/github/last-commit/roman-right/beanie)](https://github.com/roman-right/beanie/commits) 
+- [piccolo](https://github.com/piccolo-orm/piccolo): A fast, user friendly ORM and query builder which supports asyncio. 
+
+  [![GitHub stars](https://img.shields.io/github/stars/piccolo-orm/piccolo.svg?style=social)](https://github.com/piccolo-orm/piccolo) [![GitHub issues](https://img.shields.io/github/issues/piccolo-orm/piccolo.svg)](https://github.com/piccolo-orm/piccolo/issues) [![Downloads](https://img.shields.io/pypi/dw/piccolo)](https://pypi.org/project/piccolo/) [![GitHub last commit](https://img.shields.io/github/last-commit/piccolo-orm/piccolo)](https://github.com/piccolo-orm/piccolo/commits) 
 - [prisma-client-py](https://github.com/RobertCraigie/prisma-client-py): Prisma Client Python is an auto-generated and fully type-safe database client designed for ease of use 
 
   [![GitHub stars](https://img.shields.io/github/stars/RobertCraigie/prisma-client-py.svg?style=social)](https://github.com/RobertCraigie/prisma-client-py) [![GitHub issues](https://img.shields.io/github/issues/RobertCraigie/prisma-client-py.svg)](https://github.com/RobertCraigie/prisma-client-py/issues) [![Downloads](https://img.shields.io/pypi/dw/prisma)](https://pypi.org/project/prisma/) [![GitHub last commit](https://img.shields.io/github/last-commit/RobertCraigie/prisma-client-py)](https://github.com/RobertCraigie/prisma-client-py/commits) 
@@ -56,4 +62,4 @@ A list of popular github projects related to Python ORMs and ODMs (ranked by sta
 
   [![GitHub stars](https://img.shields.io/github/stars/django-nonrel/mongodb-engine.svg?style=social)](https://github.com/django-nonrel/mongodb-engine) [![GitHub issues](https://img.shields.io/github/issues/django-nonrel/mongodb-engine.svg)](https://github.com/django-nonrel/mongodb-engine/issues) [![Downloads](https://img.shields.io/pypi/dw/django-mongodb-engine)](https://pypi.org/project/django-mongodb-engine/) [![GitHub last commit](https://img.shields.io/github/last-commit/django-nonrel/mongodb-engine)](https://github.com/django-nonrel/mongodb-engine/commits) 
 
-*Last Automatic Update: 2022-10-30T23:39:32*
+*Last Automatic Update: 2022-10-30T23:52:45*
