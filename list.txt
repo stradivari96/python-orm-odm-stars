@@ -6,11 +6,13 @@ https://github.com/django/django Django
 https://github.com/doableware/djongo djongo
 https://github.com/encode/orm orm
 https://github.com/MongoEngine/mongoengine mongoengine
+https://github.com/piccolo-orm/piccolo piccolo
 https://github.com/ponyorm/pony pony
 https://github.com/python-gino/gino gino
 https://github.com/RobertCraigie/prisma-client-py prisma
 https://github.com/roman-right/beanie beanie
 https://github.com/Scille/umongo umongo
+https://github.com/sdispater/orator orator
 https://github.com/sqlalchemy/alembic alembic
 https://github.com/sqlalchemy/sqlalchemy SQLAlchemy
 https://github.com/tiangolo/sqlmodel sqlmodel
