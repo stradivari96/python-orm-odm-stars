@@ -5,6 +5,7 @@ https://github.com/django-nonrel/mongodb-engine django-mongodb-engine
 https://github.com/django/django Django
 https://github.com/doableware/djongo djongo
 https://github.com/encode/orm orm
+https://github.com/masoniteframework/orm masonite-orm
 https://github.com/MongoEngine/mongoengine mongoengine
 https://github.com/piccolo-orm/piccolo piccolo
 https://github.com/ponyorm/pony pony

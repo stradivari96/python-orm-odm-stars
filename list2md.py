@@ -11,7 +11,9 @@ tail = '\n*Last Automatic Update: {}*'
 
 warning = "\n⚠️ No longer maintained ⚠️\n\n"
 
-deprecated_repos = []
+deprecated_repos = [
+    "https://github.com/sdispater/orator",
+]
 repos = list()
 
 
@@ -38,8 +40,8 @@ def main():
                 commit = json.loads(r.content)
 
                 repo['last_commit_date'] = datetime.fromisoformat(commit['commit']['committer']['date'][:-1])
-                if repo['stargazers_count'] >= 400:
-                    repos.append(repo)
+                #if repo['stargazers_count'] >= 400:
+                repos.append(repo)
 
         repos.sort(key=lambda r: r['stargazers_count'], reverse=True)
         save_ranking(repos)
