@@ -13,6 +13,9 @@ A list of popular github projects related to Python ORMs and ODMs (ranked by sta
 - [sqlalchemy](https://github.com/sqlalchemy/sqlalchemy): The Database Toolkit for Python 
 
   [![GitHub stars](https://img.shields.io/github/stars/sqlalchemy/sqlalchemy.svg?style=social)](https://github.com/sqlalchemy/sqlalchemy) [![GitHub issues](https://img.shields.io/github/issues/sqlalchemy/sqlalchemy.svg)](https://github.com/sqlalchemy/sqlalchemy/issues) [![Downloads](https://img.shields.io/pypi/dw/SQLAlchemy)](https://pypi.org/project/SQLAlchemy/) [![GitHub last commit](https://img.shields.io/github/last-commit/sqlalchemy/sqlalchemy)](https://github.com/sqlalchemy/sqlalchemy/commits) 
+- [dataset](https://github.com/pudo/dataset): Easy-to-use data handling for SQL data stores with support for implicit table creation, bulk loading, and transactions. 
+
+  [![GitHub stars](https://img.shields.io/github/stars/pudo/dataset.svg?style=social)](https://github.com/pudo/dataset) [![GitHub issues](https://img.shields.io/github/issues/pudo/dataset.svg)](https://github.com/pudo/dataset/issues) [![Downloads](https://img.shields.io/pypi/dw/dataset)](https://pypi.org/project/dataset/) [![GitHub last commit](https://img.shields.io/github/last-commit/pudo/dataset)](https://github.com/pudo/dataset/commits) 
 - [mongoengine](https://github.com/MongoEngine/mongoengine): A Python Object-Document-Mapper for working with MongoDB 
 
   [![GitHub stars](https://img.shields.io/github/stars/MongoEngine/mongoengine.svg?style=social)](https://github.com/MongoEngine/mongoengine) [![GitHub issues](https://img.shields.io/github/issues/MongoEngine/mongoengine.svg)](https://github.com/MongoEngine/mongoengine/issues) [![Downloads](https://img.shields.io/pypi/dw/mongoengine)](https://pypi.org/project/mongoengine/) [![GitHub last commit](https://img.shields.io/github/last-commit/MongoEngine/mongoengine)](https://github.com/MongoEngine/mongoengine/commits) 
@@ -25,15 +28,15 @@ A list of popular github projects related to Python ORMs and ODMs (ranked by sta
 - [gino](https://github.com/python-gino/gino): GINO Is Not ORM - a Python asyncio ORM on SQLAlchemy core. 
 
   [![GitHub stars](https://img.shields.io/github/stars/python-gino/gino.svg?style=social)](https://github.com/python-gino/gino) [![GitHub issues](https://img.shields.io/github/issues/python-gino/gino.svg)](https://github.com/python-gino/gino/issues) [![Downloads](https://img.shields.io/pypi/dw/gino)](https://pypi.org/project/gino/) [![GitHub last commit](https://img.shields.io/github/last-commit/python-gino/gino)](https://github.com/python-gino/gino/commits) 
+- [PynamoDB](https://github.com/pynamodb/PynamoDB): A pythonic interface to Amazon's DynamoDB 
+
+  [![GitHub stars](https://img.shields.io/github/stars/pynamodb/PynamoDB.svg?style=social)](https://github.com/pynamodb/PynamoDB) [![GitHub issues](https://img.shields.io/github/issues/pynamodb/PynamoDB.svg)](https://github.com/pynamodb/PynamoDB/issues) [![Downloads](https://img.shields.io/pypi/dw/pynamodb)](https://pypi.org/project/pynamodb/) [![GitHub last commit](https://img.shields.io/github/last-commit/pynamodb/PynamoDB)](https://github.com/pynamodb/PynamoDB/commits) 
 - [orm](https://github.com/encode/orm): An async ORM. 🗃 
 
   [![GitHub stars](https://img.shields.io/github/stars/encode/orm.svg?style=social)](https://github.com/encode/orm) [![GitHub issues](https://img.shields.io/github/issues/encode/orm.svg)](https://github.com/encode/orm/issues) [![Downloads](https://img.shields.io/pypi/dw/orm)](https://pypi.org/project/orm/) [![GitHub last commit](https://img.shields.io/github/last-commit/encode/orm)](https://github.com/encode/orm/commits) 
 - [djongo](https://github.com/doableware/djongo): Django and MongoDB database connector 
 
   [![GitHub stars](https://img.shields.io/github/stars/doableware/djongo.svg?style=social)](https://github.com/doableware/djongo) [![GitHub issues](https://img.shields.io/github/issues/doableware/djongo.svg)](https://github.com/doableware/djongo/issues) [![Downloads](https://img.shields.io/pypi/dw/djongo)](https://pypi.org/project/djongo/) [![GitHub last commit](https://img.shields.io/github/last-commit/doableware/djongo)](https://github.com/doableware/djongo/commits) 
-- [alembic](https://github.com/sqlalchemy/alembic): A database migrations tool for SQLAlchemy. 
-
-  [![GitHub stars](https://img.shields.io/github/stars/sqlalchemy/alembic.svg?style=social)](https://github.com/sqlalchemy/alembic) [![GitHub issues](https://img.shields.io/github/issues/sqlalchemy/alembic.svg)](https://github.com/sqlalchemy/alembic/issues) [![Downloads](https://img.shields.io/pypi/dw/alembic)](https://pypi.org/project/alembic/) [![GitHub last commit](https://img.shields.io/github/last-commit/sqlalchemy/alembic)](https://github.com/sqlalchemy/alembic/commits) 
 - [ormar](https://github.com/collerek/ormar): python async orm with fastapi in mind and pydantic validation 
 
   [![GitHub stars](https://img.shields.io/github/stars/collerek/ormar.svg?style=social)](https://github.com/collerek/ormar) [![GitHub issues](https://img.shields.io/github/issues/collerek/ormar.svg)](https://github.com/collerek/ormar/issues) [![Downloads](https://img.shields.io/pypi/dw/ormar)](https://pypi.org/project/ormar/) [![GitHub last commit](https://img.shields.io/github/last-commit/collerek/ormar)](https://github.com/collerek/ormar/commits) 
@@ -49,6 +52,9 @@ A list of popular github projects related to Python ORMs and ODMs (ranked by sta
 - [odmantic](https://github.com/art049/odmantic): Sync and Async ODM (Object Document Mapper) for MongoDB based on python type hints 
 
   [![GitHub stars](https://img.shields.io/github/stars/art049/odmantic.svg?style=social)](https://github.com/art049/odmantic) [![GitHub issues](https://img.shields.io/github/issues/art049/odmantic.svg)](https://github.com/art049/odmantic/issues) [![Downloads](https://img.shields.io/pypi/dw/odmantic)](https://pypi.org/project/odmantic/) [![GitHub last commit](https://img.shields.io/github/last-commit/art049/odmantic)](https://github.com/art049/odmantic/commits) 
+- [pydal](https://github.com/web2py/pydal): A pure Python Database Abstraction Layer 
+
+  [![GitHub stars](https://img.shields.io/github/stars/web2py/pydal.svg?style=social)](https://github.com/web2py/pydal) [![GitHub issues](https://img.shields.io/github/issues/web2py/pydal.svg)](https://github.com/web2py/pydal/issues) [![Downloads](https://img.shields.io/pypi/dw/pyDAL)](https://pypi.org/project/pyDAL/) [![GitHub last commit](https://img.shields.io/github/last-commit/web2py/pydal)](https://github.com/web2py/pydal/commits) 
 - [umongo](https://github.com/Scille/umongo): sync/async MongoDB ODM, yes. 
 
   [![GitHub stars](https://img.shields.io/github/stars/Scille/umongo.svg?style=social)](https://github.com/Scille/umongo) [![GitHub issues](https://img.shields.io/github/issues/Scille/umongo.svg)](https://github.com/Scille/umongo/issues) [![Downloads](https://img.shields.io/pypi/dw/umongo)](https://pypi.org/project/umongo/) [![GitHub last commit](https://img.shields.io/github/last-commit/Scille/umongo)](https://github.com/Scille/umongo/commits) 
@@ -64,5 +70,8 @@ A list of popular github projects related to Python ORMs and ODMs (ranked by sta
 - [mongodb-engine](https://github.com/django-nonrel/mongodb-engine): Django MongoDB Backend 
 
   [![GitHub stars](https://img.shields.io/github/stars/django-nonrel/mongodb-engine.svg?style=social)](https://github.com/django-nonrel/mongodb-engine) [![GitHub issues](https://img.shields.io/github/issues/django-nonrel/mongodb-engine.svg)](https://github.com/django-nonrel/mongodb-engine/issues) [![Downloads](https://img.shields.io/pypi/dw/django-mongodb-engine)](https://pypi.org/project/django-mongodb-engine/) [![GitHub last commit](https://img.shields.io/github/last-commit/django-nonrel/mongodb-engine)](https://github.com/django-nonrel/mongodb-engine/commits) 
+- [redisco](https://github.com/kiddouk/redisco): A Python Library for Simple Models and Containers Persisted in Redis  
 
-*Last Automatic Update: 2022-10-30T23:56:46*
+  [![GitHub stars](https://img.shields.io/github/stars/kiddouk/redisco.svg?style=social)](https://github.com/kiddouk/redisco) [![GitHub issues](https://img.shields.io/github/issues/kiddouk/redisco.svg)](https://github.com/kiddouk/redisco/issues) [![Downloads](https://img.shields.io/pypi/dw/redisco)](https://pypi.org/project/redisco/) [![GitHub last commit](https://img.shields.io/github/last-commit/kiddouk/redisco)](https://github.com/kiddouk/redisco/commits) 
+
+*Last Automatic Update: 2022-10-31T00:11:25*
