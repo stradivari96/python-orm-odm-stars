@@ -1,5 +1,5 @@
-# Top Python ORMs and ODM
-A list of popular github projects related to Python ORMs and ODMs (ranked by stars automatically)
+# Top Python Active Record Libraries
+A list of popular github projects related to Python ORMs, ODMs, OGMs (ranked by stars automatically)
 
 - [django](https://github.com/django/django): The Web framework for perfectionists with deadlines. 
 
@@ -37,6 +37,9 @@ A list of popular github projects related to Python ORMs and ODMs (ranked by sta
 - [djongo](https://github.com/doableware/djongo): Django and MongoDB database connector 
 
   [![GitHub stars](https://img.shields.io/github/stars/doableware/djongo.svg?style=social)](https://github.com/doableware/djongo) [![GitHub issues](https://img.shields.io/github/issues/doableware/djongo.svg)](https://github.com/doableware/djongo/issues) [![Downloads](https://img.shields.io/pypi/dw/djongo)](https://pypi.org/project/djongo/) [![GitHub last commit](https://img.shields.io/github/last-commit/doableware/djongo)](https://github.com/doableware/djongo/commits) 
+- [py2neo](https://github.com/py2neo-org/py2neo): Py2neo is a comprehensive Neo4j driver library and toolkit for Python. 
+
+  [![GitHub stars](https://img.shields.io/github/stars/py2neo-org/py2neo.svg?style=social)](https://github.com/py2neo-org/py2neo) [![GitHub issues](https://img.shields.io/github/issues/py2neo-org/py2neo.svg)](https://github.com/py2neo-org/py2neo/issues) [![Downloads](https://img.shields.io/pypi/dw/py2neo)](https://pypi.org/project/py2neo/) [![GitHub last commit](https://img.shields.io/github/last-commit/py2neo-org/py2neo)](https://github.com/py2neo-org/py2neo/commits) 
 - [ormar](https://github.com/collerek/ormar): python async orm with fastapi in mind and pydantic validation 
 
   [![GitHub stars](https://img.shields.io/github/stars/collerek/ormar.svg?style=social)](https://github.com/collerek/ormar) [![GitHub issues](https://img.shields.io/github/issues/collerek/ormar.svg)](https://github.com/collerek/ormar/issues) [![Downloads](https://img.shields.io/pypi/dw/ormar)](https://pypi.org/project/ormar/) [![GitHub last commit](https://img.shields.io/github/last-commit/collerek/ormar)](https://github.com/collerek/ormar/commits) 
@@ -49,6 +52,9 @@ A list of popular github projects related to Python ORMs and ODMs (ranked by sta
 - [prisma-client-py](https://github.com/RobertCraigie/prisma-client-py): Prisma Client Python is an auto-generated and fully type-safe database client designed for ease of use 
 
   [![GitHub stars](https://img.shields.io/github/stars/RobertCraigie/prisma-client-py.svg?style=social)](https://github.com/RobertCraigie/prisma-client-py) [![GitHub issues](https://img.shields.io/github/issues/RobertCraigie/prisma-client-py.svg)](https://github.com/RobertCraigie/prisma-client-py/issues) [![Downloads](https://img.shields.io/pypi/dw/prisma)](https://pypi.org/project/prisma/) [![GitHub last commit](https://img.shields.io/github/last-commit/RobertCraigie/prisma-client-py)](https://github.com/RobertCraigie/prisma-client-py/commits) 
+- [neomodel](https://github.com/neo4j-contrib/neomodel): An Object Graph Mapper (OGM) for the Neo4j graph database. 
+
+  [![GitHub stars](https://img.shields.io/github/stars/neo4j-contrib/neomodel.svg?style=social)](https://github.com/neo4j-contrib/neomodel) [![GitHub issues](https://img.shields.io/github/issues/neo4j-contrib/neomodel.svg)](https://github.com/neo4j-contrib/neomodel/issues) [![Downloads](https://img.shields.io/pypi/dw/neomodel)](https://pypi.org/project/neomodel/) [![GitHub last commit](https://img.shields.io/github/last-commit/neo4j-contrib/neomodel)](https://github.com/neo4j-contrib/neomodel/commits) 
 - [odmantic](https://github.com/art049/odmantic): Sync and Async ODM (Object Document Mapper) for MongoDB based on python type hints 
 
   [![GitHub stars](https://img.shields.io/github/stars/art049/odmantic.svg?style=social)](https://github.com/art049/odmantic) [![GitHub issues](https://img.shields.io/github/issues/art049/odmantic.svg)](https://github.com/art049/odmantic/issues) [![Downloads](https://img.shields.io/pypi/dw/odmantic)](https://pypi.org/project/odmantic/) [![GitHub last commit](https://img.shields.io/github/last-commit/art049/odmantic)](https://github.com/art049/odmantic/commits) 
@@ -74,4 +80,4 @@ A list of popular github projects related to Python ORMs and ODMs (ranked by sta
 
   [![GitHub stars](https://img.shields.io/github/stars/kiddouk/redisco.svg?style=social)](https://github.com/kiddouk/redisco) [![GitHub issues](https://img.shields.io/github/issues/kiddouk/redisco.svg)](https://github.com/kiddouk/redisco/issues) [![Downloads](https://img.shields.io/pypi/dw/redisco)](https://pypi.org/project/redisco/) [![GitHub last commit](https://img.shields.io/github/last-commit/kiddouk/redisco)](https://github.com/kiddouk/redisco/commits) 
 
-*Last Automatic Update: 2022-10-31T00:11:25*
+*Last Automatic Update: 2022-10-31T00:20:24*
