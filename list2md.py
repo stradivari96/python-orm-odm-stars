@@ -4,7 +4,7 @@ import requests
 
 
 head = '''# Top Python Active Record Libraries
-A list of popular github projects related to Python ORMs and ODMs (ranked by stars automatically)
+A list of popular github projects related to Python ORMs, ODMs, OGMs (ranked by stars automatically)
 
 '''
 tail = '\n*Last Automatic Update: {}*'
