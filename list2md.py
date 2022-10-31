@@ -3,7 +3,7 @@ import json
 import requests
 
 
-head = '''# Top Python ORMs and ODM
+head = '''# Top Python Active Record Libraries
 A list of popular github projects related to Python ORMs and ODMs (ranked by stars automatically)
 
 '''
