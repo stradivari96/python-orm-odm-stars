@@ -4,6 +4,7 @@ https://github.com/collerek/ormar ormar
 https://github.com/django-nonrel/mongodb-engine django-mongodb-engine
 https://github.com/django/django Django
 https://github.com/doableware/djongo djongo
+https://github.com/elastic/elasticsearch-dsl-py elasticsearch-dsl
 https://github.com/encode/orm orm
 https://github.com/kiddouk/redisco redisco
 https://github.com/masoniteframework/orm masonite-orm
