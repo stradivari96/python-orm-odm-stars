@@ -19,6 +19,9 @@ A list of popular github projects related to Python ORMs, ODMs, OGMs (ranked by 
 - [mongoengine](https://github.com/MongoEngine/mongoengine): A Python Object-Document-Mapper for working with MongoDB 
 
   [![GitHub stars](https://img.shields.io/github/stars/MongoEngine/mongoengine.svg?style=social)](https://github.com/MongoEngine/mongoengine) [![GitHub issues](https://img.shields.io/github/issues/MongoEngine/mongoengine.svg)](https://github.com/MongoEngine/mongoengine/issues) [![Downloads](https://img.shields.io/pypi/dw/mongoengine)](https://pypi.org/project/mongoengine/) [![GitHub last commit](https://img.shields.io/github/last-commit/MongoEngine/mongoengine)](https://github.com/MongoEngine/mongoengine/commits) 
+- [elasticsearch-dsl-py](https://github.com/elastic/elasticsearch-dsl-py): High level Python client for Elasticsearch 
+
+  [![GitHub stars](https://img.shields.io/github/stars/elastic/elasticsearch-dsl-py.svg?style=social)](https://github.com/elastic/elasticsearch-dsl-py) [![GitHub issues](https://img.shields.io/github/issues/elastic/elasticsearch-dsl-py.svg)](https://github.com/elastic/elasticsearch-dsl-py/issues) [![Downloads](https://img.shields.io/pypi/dw/elasticsearch-dsl)](https://pypi.org/project/elasticsearch-dsl/) [![GitHub last commit](https://img.shields.io/github/last-commit/elastic/elasticsearch-dsl-py)](https://github.com/elastic/elasticsearch-dsl-py/commits) 
 - [tortoise-orm](https://github.com/tortoise/tortoise-orm): Familiar asyncio ORM for python, built with relations in mind 
 
   [![GitHub stars](https://img.shields.io/github/stars/tortoise/tortoise-orm.svg?style=social)](https://github.com/tortoise/tortoise-orm) [![GitHub issues](https://img.shields.io/github/issues/tortoise/tortoise-orm.svg)](https://github.com/tortoise/tortoise-orm/issues) [![Downloads](https://img.shields.io/pypi/dw/tortoise-orm)](https://pypi.org/project/tortoise-orm/) [![GitHub last commit](https://img.shields.io/github/last-commit/tortoise/tortoise-orm)](https://github.com/tortoise/tortoise-orm/commits) 
@@ -80,4 +83,4 @@ A list of popular github projects related to Python ORMs, ODMs, OGMs (ranked by 
 
   [![GitHub stars](https://img.shields.io/github/stars/kiddouk/redisco.svg?style=social)](https://github.com/kiddouk/redisco) [![GitHub issues](https://img.shields.io/github/issues/kiddouk/redisco.svg)](https://github.com/kiddouk/redisco/issues) [![Downloads](https://img.shields.io/pypi/dw/redisco)](https://pypi.org/project/redisco/) [![GitHub last commit](https://img.shields.io/github/last-commit/kiddouk/redisco)](https://github.com/kiddouk/redisco/commits) 
 
-*Last Automatic Update: 2022-11-01T08:02:40*
+*Last Automatic Update: 2022-11-01T14:31:50*
