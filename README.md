@@ -40,12 +40,12 @@ A list of popular github projects related to Python ORMs, ODMs, OGMs (ranked by 
 - [djongo](https://github.com/doableware/djongo): Django and MongoDB database connector 
 
   [![GitHub stars](https://img.shields.io/github/stars/doableware/djongo.svg?style=social)](https://github.com/doableware/djongo) [![GitHub issues](https://img.shields.io/github/issues/doableware/djongo.svg)](https://github.com/doableware/djongo/issues) [![Downloads](https://img.shields.io/pypi/dw/djongo)](https://pypi.org/project/djongo/) [![GitHub last commit](https://img.shields.io/github/last-commit/doableware/djongo)](https://github.com/doableware/djongo/commits) 
-- [py2neo](https://github.com/py2neo-org/py2neo): Py2neo is a comprehensive Neo4j driver library and toolkit for Python. 
-
-  [![GitHub stars](https://img.shields.io/github/stars/py2neo-org/py2neo.svg?style=social)](https://github.com/py2neo-org/py2neo) [![GitHub issues](https://img.shields.io/github/issues/py2neo-org/py2neo.svg)](https://github.com/py2neo-org/py2neo/issues) [![Downloads](https://img.shields.io/pypi/dw/py2neo)](https://pypi.org/project/py2neo/) [![GitHub last commit](https://img.shields.io/github/last-commit/py2neo-org/py2neo)](https://github.com/py2neo-org/py2neo/commits) 
 - [ormar](https://github.com/collerek/ormar): python async orm with fastapi in mind and pydantic validation 
 
   [![GitHub stars](https://img.shields.io/github/stars/collerek/ormar.svg?style=social)](https://github.com/collerek/ormar) [![GitHub issues](https://img.shields.io/github/issues/collerek/ormar.svg)](https://github.com/collerek/ormar/issues) [![Downloads](https://img.shields.io/pypi/dw/ormar)](https://pypi.org/project/ormar/) [![GitHub last commit](https://img.shields.io/github/last-commit/collerek/ormar)](https://github.com/collerek/ormar/commits) 
+- [py2neo](https://github.com/py2neo-org/py2neo): Py2neo is a comprehensive Neo4j driver library and toolkit for Python. 
+
+  [![GitHub stars](https://img.shields.io/github/stars/py2neo-org/py2neo.svg?style=social)](https://github.com/py2neo-org/py2neo) [![GitHub issues](https://img.shields.io/github/issues/py2neo-org/py2neo.svg)](https://github.com/py2neo-org/py2neo/issues) [![Downloads](https://img.shields.io/pypi/dw/py2neo)](https://pypi.org/project/py2neo/) [![GitHub last commit](https://img.shields.io/github/last-commit/py2neo-org/py2neo)](https://github.com/py2neo-org/py2neo/commits) 
 - [beanie](https://github.com/roman-right/beanie): Asynchronous Python ODM for MongoDB 
 
   [![GitHub stars](https://img.shields.io/github/stars/roman-right/beanie.svg?style=social)](https://github.com/roman-right/beanie) [![GitHub issues](https://img.shields.io/github/issues/roman-right/beanie.svg)](https://github.com/roman-right/beanie/issues) [![Downloads](https://img.shields.io/pypi/dw/beanie)](https://pypi.org/project/beanie/) [![GitHub last commit](https://img.shields.io/github/last-commit/roman-right/beanie)](https://github.com/roman-right/beanie/commits) 
@@ -83,4 +83,4 @@ A list of popular github projects related to Python ORMs, ODMs, OGMs (ranked by 
 
   [![GitHub stars](https://img.shields.io/github/stars/kiddouk/redisco.svg?style=social)](https://github.com/kiddouk/redisco) [![GitHub issues](https://img.shields.io/github/issues/kiddouk/redisco.svg)](https://github.com/kiddouk/redisco/issues) [![Downloads](https://img.shields.io/pypi/dw/redisco)](https://pypi.org/project/redisco/) [![GitHub last commit](https://img.shields.io/github/last-commit/kiddouk/redisco)](https://github.com/kiddouk/redisco/commits) 
 
-*Last Automatic Update: 2022-11-12T08:02:42*
+*Last Automatic Update: 2022-11-13T08:02:16*
