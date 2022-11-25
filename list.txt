@@ -24,5 +24,3 @@ https://github.com/sqlalchemy/sqlalchemy SQLAlchemy
 https://github.com/tiangolo/sqlmodel sqlmodel
 https://github.com/tortoise/tortoise-orm tortoise-orm
 https://github.com/web2py/pydal pyDAL
-https://github.com/pydantic/pydantic pydantic
-https://github.com/marshmallow-code/marshmallow marshmallow
