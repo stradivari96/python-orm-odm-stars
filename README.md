@@ -4,18 +4,12 @@ A list of popular github projects related to Python ORMs, ODMs, OGMs (ranked by 
 - [django](https://github.com/django/django): The Web framework for perfectionists with deadlines. 
 
   [![GitHub stars](https://img.shields.io/github/stars/django/django.svg?style=social)](https://github.com/django/django) [![GitHub issues](https://img.shields.io/github/issues/django/django.svg)](https://github.com/django/django/issues) [![Downloads](https://img.shields.io/pypi/dw/Django)](https://pypi.org/project/Django/) [![GitHub last commit](https://img.shields.io/github/last-commit/django/django)](https://github.com/django/django/commits) 
-- [pydantic](https://github.com/pydantic/pydantic): Data parsing and validation using Python type hints 
-
-  [![GitHub stars](https://img.shields.io/github/stars/pydantic/pydantic.svg?style=social)](https://github.com/pydantic/pydantic) [![GitHub issues](https://img.shields.io/github/issues/pydantic/pydantic.svg)](https://github.com/pydantic/pydantic/issues) [![Downloads](https://img.shields.io/pypi/dw/pydantic)](https://pypi.org/project/pydantic/) [![GitHub last commit](https://img.shields.io/github/last-commit/pydantic/pydantic)](https://github.com/pydantic/pydantic/commits) 
 - [peewee](https://github.com/coleifer/peewee): a small, expressive orm -- supports postgresql, mysql and sqlite 
 
   [![GitHub stars](https://img.shields.io/github/stars/coleifer/peewee.svg?style=social)](https://github.com/coleifer/peewee) [![GitHub issues](https://img.shields.io/github/issues/coleifer/peewee.svg)](https://github.com/coleifer/peewee/issues) [![Downloads](https://img.shields.io/pypi/dw/peewee)](https://pypi.org/project/peewee/) [![GitHub last commit](https://img.shields.io/github/last-commit/coleifer/peewee)](https://github.com/coleifer/peewee/commits) 
 - [sqlmodel](https://github.com/tiangolo/sqlmodel): SQL databases in Python, designed for simplicity, compatibility, and robustness. 
 
   [![GitHub stars](https://img.shields.io/github/stars/tiangolo/sqlmodel.svg?style=social)](https://github.com/tiangolo/sqlmodel) [![GitHub issues](https://img.shields.io/github/issues/tiangolo/sqlmodel.svg)](https://github.com/tiangolo/sqlmodel/issues) [![Downloads](https://img.shields.io/pypi/dw/sqlmodel)](https://pypi.org/project/sqlmodel/) [![GitHub last commit](https://img.shields.io/github/last-commit/tiangolo/sqlmodel)](https://github.com/tiangolo/sqlmodel/commits) 
-- [marshmallow](https://github.com/marshmallow-code/marshmallow): A lightweight library for converting complex objects to and from simple Python datatypes. 
-
-  [![GitHub stars](https://img.shields.io/github/stars/marshmallow-code/marshmallow.svg?style=social)](https://github.com/marshmallow-code/marshmallow) [![GitHub issues](https://img.shields.io/github/issues/marshmallow-code/marshmallow.svg)](https://github.com/marshmallow-code/marshmallow/issues) [![Downloads](https://img.shields.io/pypi/dw/marshmallow)](https://pypi.org/project/marshmallow/) [![GitHub last commit](https://img.shields.io/github/last-commit/marshmallow-code/marshmallow)](https://github.com/marshmallow-code/marshmallow/commits) 
 - [sqlalchemy](https://github.com/sqlalchemy/sqlalchemy): The Database Toolkit for Python 
 
   [![GitHub stars](https://img.shields.io/github/stars/sqlalchemy/sqlalchemy.svg?style=social)](https://github.com/sqlalchemy/sqlalchemy) [![GitHub issues](https://img.shields.io/github/issues/sqlalchemy/sqlalchemy.svg)](https://github.com/sqlalchemy/sqlalchemy/issues) [![Downloads](https://img.shields.io/pypi/dw/SQLAlchemy)](https://pypi.org/project/SQLAlchemy/) [![GitHub last commit](https://img.shields.io/github/last-commit/sqlalchemy/sqlalchemy)](https://github.com/sqlalchemy/sqlalchemy/commits) 
@@ -89,4 +83,4 @@ A list of popular github projects related to Python ORMs, ODMs, OGMs (ranked by 
 
   [![GitHub stars](https://img.shields.io/github/stars/kiddouk/redisco.svg?style=social)](https://github.com/kiddouk/redisco) [![GitHub issues](https://img.shields.io/github/issues/kiddouk/redisco.svg)](https://github.com/kiddouk/redisco/issues) [![Downloads](https://img.shields.io/pypi/dw/redisco)](https://pypi.org/project/redisco/) [![GitHub last commit](https://img.shields.io/github/last-commit/kiddouk/redisco)](https://github.com/kiddouk/redisco/commits) 
 
-*Last Automatic Update: 2022-11-25T12:46:48*
+*Last Automatic Update: 2022-11-25T12:48:22*
