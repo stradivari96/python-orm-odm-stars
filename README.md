@@ -34,12 +34,12 @@ A list of popular github projects related to Python ORMs, ODMs, OGMs (ranked by 
 - [PynamoDB](https://github.com/pynamodb/PynamoDB): A pythonic interface to Amazon's DynamoDB 
 
   [![GitHub stars](https://img.shields.io/github/stars/pynamodb/PynamoDB.svg?style=social)](https://github.com/pynamodb/PynamoDB) [![GitHub issues](https://img.shields.io/github/issues/pynamodb/PynamoDB.svg)](https://github.com/pynamodb/PynamoDB/issues) [![Downloads](https://img.shields.io/pypi/dw/pynamodb)](https://pypi.org/project/pynamodb/) [![GitHub last commit](https://img.shields.io/github/last-commit/pynamodb/PynamoDB)](https://github.com/pynamodb/PynamoDB/commits) 
-- [orm](https://github.com/encode/orm): An async ORM. 🗃 
-
-  [![GitHub stars](https://img.shields.io/github/stars/encode/orm.svg?style=social)](https://github.com/encode/orm) [![GitHub issues](https://img.shields.io/github/issues/encode/orm.svg)](https://github.com/encode/orm/issues) [![Downloads](https://img.shields.io/pypi/dw/orm)](https://pypi.org/project/orm/) [![GitHub last commit](https://img.shields.io/github/last-commit/encode/orm)](https://github.com/encode/orm/commits) 
 - [djongo](https://github.com/doableware/djongo): Django and MongoDB database connector 
 
   [![GitHub stars](https://img.shields.io/github/stars/doableware/djongo.svg?style=social)](https://github.com/doableware/djongo) [![GitHub issues](https://img.shields.io/github/issues/doableware/djongo.svg)](https://github.com/doableware/djongo/issues) [![Downloads](https://img.shields.io/pypi/dw/djongo)](https://pypi.org/project/djongo/) [![GitHub last commit](https://img.shields.io/github/last-commit/doableware/djongo)](https://github.com/doableware/djongo/commits) 
+- [orm](https://github.com/encode/orm): An async ORM. 🗃 
+
+  [![GitHub stars](https://img.shields.io/github/stars/encode/orm.svg?style=social)](https://github.com/encode/orm) [![GitHub issues](https://img.shields.io/github/issues/encode/orm.svg)](https://github.com/encode/orm/issues) [![Downloads](https://img.shields.io/pypi/dw/orm)](https://pypi.org/project/orm/) [![GitHub last commit](https://img.shields.io/github/last-commit/encode/orm)](https://github.com/encode/orm/commits) 
 - [ormar](https://github.com/collerek/ormar): python async orm with fastapi in mind and pydantic validation 
 
   [![GitHub stars](https://img.shields.io/github/stars/collerek/ormar.svg?style=social)](https://github.com/collerek/ormar) [![GitHub issues](https://img.shields.io/github/issues/collerek/ormar.svg)](https://github.com/collerek/ormar/issues) [![Downloads](https://img.shields.io/pypi/dw/ormar)](https://pypi.org/project/ormar/) [![GitHub last commit](https://img.shields.io/github/last-commit/collerek/ormar)](https://github.com/collerek/ormar/commits) 
@@ -83,4 +83,4 @@ A list of popular github projects related to Python ORMs, ODMs, OGMs (ranked by 
 
   [![GitHub stars](https://img.shields.io/github/stars/kiddouk/redisco.svg?style=social)](https://github.com/kiddouk/redisco) [![GitHub issues](https://img.shields.io/github/issues/kiddouk/redisco.svg)](https://github.com/kiddouk/redisco/issues) [![Downloads](https://img.shields.io/pypi/dw/redisco)](https://pypi.org/project/redisco/) [![GitHub last commit](https://img.shields.io/github/last-commit/kiddouk/redisco)](https://github.com/kiddouk/redisco/commits) 
 
-*Last Automatic Update: 2023-01-29T08:06:55*
+*Last Automatic Update: 2023-02-05T08:06:44*
