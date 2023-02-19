@@ -28,9 +28,6 @@ A list of popular github projects related to Python ORMs, ODMs, OGMs (ranked by 
 - [pony](https://github.com/ponyorm/pony): Pony Object Relational Mapper 
 
   [![GitHub stars](https://img.shields.io/github/stars/ponyorm/pony.svg?style=social)](https://github.com/ponyorm/pony) [![GitHub issues](https://img.shields.io/github/issues/ponyorm/pony.svg)](https://github.com/ponyorm/pony/issues) [![Downloads](https://img.shields.io/pypi/dw/pony)](https://pypi.org/project/pony/) [![GitHub last commit](https://img.shields.io/github/last-commit/ponyorm/pony)](https://github.com/ponyorm/pony/commits) 
-- [gino](https://github.com/python-gino/gino): GINO Is Not ORM - a Python asyncio ORM on SQLAlchemy core. 
-
-  [![GitHub stars](https://img.shields.io/github/stars/python-gino/gino.svg?style=social)](https://github.com/python-gino/gino) [![GitHub issues](https://img.shields.io/github/issues/python-gino/gino.svg)](https://github.com/python-gino/gino/issues) [![Downloads](https://img.shields.io/pypi/dw/gino)](https://pypi.org/project/gino/) [![GitHub last commit](https://img.shields.io/github/last-commit/python-gino/gino)](https://github.com/python-gino/gino/commits) 
 - [PynamoDB](https://github.com/pynamodb/PynamoDB): A pythonic interface to Amazon's DynamoDB 
 
   [![GitHub stars](https://img.shields.io/github/stars/pynamodb/PynamoDB.svg?style=social)](https://github.com/pynamodb/PynamoDB) [![GitHub issues](https://img.shields.io/github/issues/pynamodb/PynamoDB.svg)](https://github.com/pynamodb/PynamoDB/issues) [![Downloads](https://img.shields.io/pypi/dw/pynamodb)](https://pypi.org/project/pynamodb/) [![GitHub last commit](https://img.shields.io/github/last-commit/pynamodb/PynamoDB)](https://github.com/pynamodb/PynamoDB/commits) 
@@ -70,6 +67,9 @@ A list of popular github projects related to Python ORMs, ODMs, OGMs (ranked by 
 
 ⚠️ No longer maintained ⚠️
 
+- [gino](https://github.com/python-gino/gino): GINO Is Not ORM - a Python asyncio ORM on SQLAlchemy core. 
+
+  [![GitHub stars](https://img.shields.io/github/stars/python-gino/gino.svg?style=social)](https://github.com/python-gino/gino) [![GitHub issues](https://img.shields.io/github/issues/python-gino/gino.svg)](https://github.com/python-gino/gino/issues) [![Downloads](https://img.shields.io/pypi/dw/gino)](https://pypi.org/project/gino/) [![GitHub last commit](https://img.shields.io/github/last-commit/python-gino/gino)](https://github.com/python-gino/gino/commits) 
 - [orator](https://github.com/sdispater/orator): The Orator ORM provides a simple yet beautiful ActiveRecord implementation. 
 
   [![GitHub stars](https://img.shields.io/github/stars/sdispater/orator.svg?style=social)](https://github.com/sdispater/orator) [![GitHub issues](https://img.shields.io/github/issues/sdispater/orator.svg)](https://github.com/sdispater/orator/issues) [![Downloads](https://img.shields.io/pypi/dw/orator)](https://pypi.org/project/orator/) [![GitHub last commit](https://img.shields.io/github/last-commit/sdispater/orator)](https://github.com/sdispater/orator/commits) 
@@ -83,4 +83,4 @@ A list of popular github projects related to Python ORMs, ODMs, OGMs (ranked by 
 
   [![GitHub stars](https://img.shields.io/github/stars/kiddouk/redisco.svg?style=social)](https://github.com/kiddouk/redisco) [![GitHub issues](https://img.shields.io/github/issues/kiddouk/redisco.svg)](https://github.com/kiddouk/redisco/issues) [![Downloads](https://img.shields.io/pypi/dw/redisco)](https://pypi.org/project/redisco/) [![GitHub last commit](https://img.shields.io/github/last-commit/kiddouk/redisco)](https://github.com/kiddouk/redisco/commits) 
 
-*Last Automatic Update: 2023-02-12T08:06:28*
+*Last Automatic Update: 2023-02-19T08:06:45*
