@@ -83,4 +83,4 @@ A list of popular github projects related to Python ORMs, ODMs, OGMs (ranked by 
 
   [![GitHub stars](https://img.shields.io/github/stars/kiddouk/redisco.svg?style=social)](https://github.com/kiddouk/redisco) [![GitHub issues](https://img.shields.io/github/issues/kiddouk/redisco.svg)](https://github.com/kiddouk/redisco/issues) [![Downloads](https://img.shields.io/pypi/dw/redisco)](https://pypi.org/project/redisco/) [![GitHub last commit](https://img.shields.io/github/last-commit/kiddouk/redisco)](https://github.com/kiddouk/redisco/commits) 
 
-*Last Automatic Update: 2023-04-23T08:06:15*
+*Last Automatic Update: 2023-04-30T08:06:35*
