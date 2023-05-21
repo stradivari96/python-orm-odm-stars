@@ -43,6 +43,9 @@ A list of popular github projects related to Python ORMs, ODMs, OGMs (ranked by 
 - [beanie](https://github.com/roman-right/beanie): Asynchronous Python ODM for MongoDB 
 
   [![GitHub stars](https://img.shields.io/github/stars/roman-right/beanie.svg?style=social)](https://github.com/roman-right/beanie) [![GitHub issues](https://img.shields.io/github/issues/roman-right/beanie.svg)](https://github.com/roman-right/beanie/issues) [![Downloads](https://img.shields.io/pypi/dw/beanie)](https://pypi.org/project/beanie/) [![GitHub last commit](https://img.shields.io/github/last-commit/roman-right/beanie)](https://github.com/roman-right/beanie/commits) 
+- [py2neo](https://github.com/py2neo-org/py2neo): Py2neo is a comprehensive Neo4j driver library and toolkit for Python. 
+
+  [![GitHub stars](https://img.shields.io/github/stars/py2neo-org/py2neo.svg?style=social)](https://github.com/py2neo-org/py2neo) [![GitHub issues](https://img.shields.io/github/issues/py2neo-org/py2neo.svg)](https://github.com/py2neo-org/py2neo/issues) [![Downloads](https://img.shields.io/pypi/dw/py2neo)](https://pypi.org/project/py2neo/) [![GitHub last commit](https://img.shields.io/github/last-commit/py2neo-org/py2neo)](https://github.com/py2neo-org/py2neo/commits) 
 - [prisma-client-py](https://github.com/RobertCraigie/prisma-client-py): Prisma Client Python is an auto-generated and fully type-safe database client designed for ease of use 
 
   [![GitHub stars](https://img.shields.io/github/stars/RobertCraigie/prisma-client-py.svg?style=social)](https://github.com/RobertCraigie/prisma-client-py) [![GitHub issues](https://img.shields.io/github/issues/RobertCraigie/prisma-client-py.svg)](https://github.com/RobertCraigie/prisma-client-py/issues) [![Downloads](https://img.shields.io/pypi/dw/prisma)](https://pypi.org/project/prisma/) [![GitHub last commit](https://img.shields.io/github/last-commit/RobertCraigie/prisma-client-py)](https://github.com/RobertCraigie/prisma-client-py/commits) 
@@ -73,9 +76,6 @@ A list of popular github projects related to Python ORMs, ODMs, OGMs (ranked by 
 - [orator](https://github.com/sdispater/orator): The Orator ORM provides a simple yet beautiful ActiveRecord implementation. 
 
   [![GitHub stars](https://img.shields.io/github/stars/sdispater/orator.svg?style=social)](https://github.com/sdispater/orator) [![GitHub issues](https://img.shields.io/github/issues/sdispater/orator.svg)](https://github.com/sdispater/orator/issues) [![Downloads](https://img.shields.io/pypi/dw/orator)](https://pypi.org/project/orator/) [![GitHub last commit](https://img.shields.io/github/last-commit/sdispater/orator)](https://github.com/sdispater/orator/commits) 
-- [py2neo](https://github.com/py2neo-org/py2neo): Py2neo is a comprehensive Neo4j driver library and toolkit for Python. 
-
-  [![GitHub stars](https://img.shields.io/github/stars/py2neo-org/py2neo.svg?style=social)](https://github.com/py2neo-org/py2neo) [![GitHub issues](https://img.shields.io/github/issues/py2neo-org/py2neo.svg)](https://github.com/py2neo-org/py2neo/issues) [![Downloads](https://img.shields.io/pypi/dw/py2neo)](https://pypi.org/project/py2neo/) [![GitHub last commit](https://img.shields.io/github/last-commit/py2neo-org/py2neo)](https://github.com/py2neo-org/py2neo/commits) 
 - [mongodb-engine](https://github.com/django-nonrel/mongodb-engine): Django MongoDB Backend 
 
   [![GitHub stars](https://img.shields.io/github/stars/django-nonrel/mongodb-engine.svg?style=social)](https://github.com/django-nonrel/mongodb-engine) [![GitHub issues](https://img.shields.io/github/issues/django-nonrel/mongodb-engine.svg)](https://github.com/django-nonrel/mongodb-engine/issues) [![Downloads](https://img.shields.io/pypi/dw/django-mongodb-engine)](https://pypi.org/project/django-mongodb-engine/) [![GitHub last commit](https://img.shields.io/github/last-commit/django-nonrel/mongodb-engine)](https://github.com/django-nonrel/mongodb-engine/commits) 
@@ -83,4 +83,4 @@ A list of popular github projects related to Python ORMs, ODMs, OGMs (ranked by 
 
   [![GitHub stars](https://img.shields.io/github/stars/kiddouk/redisco.svg?style=social)](https://github.com/kiddouk/redisco) [![GitHub issues](https://img.shields.io/github/issues/kiddouk/redisco.svg)](https://github.com/kiddouk/redisco/issues) [![Downloads](https://img.shields.io/pypi/dw/redisco)](https://pypi.org/project/redisco/) [![GitHub last commit](https://img.shields.io/github/last-commit/kiddouk/redisco)](https://github.com/kiddouk/redisco/commits) 
 
-*Last Automatic Update: 2023-05-14T08:06:29*
+*Last Automatic Update: 2023-05-21T08:06:39*
