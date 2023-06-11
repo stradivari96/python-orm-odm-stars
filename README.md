@@ -43,12 +43,12 @@ A list of popular github projects related to Python ORMs, ODMs, OGMs (ranked by 
 - [beanie](https://github.com/roman-right/beanie): Asynchronous Python ODM for MongoDB 
 
   [![GitHub stars](https://img.shields.io/github/stars/roman-right/beanie.svg?style=social)](https://github.com/roman-right/beanie) [![GitHub issues](https://img.shields.io/github/issues/roman-right/beanie.svg)](https://github.com/roman-right/beanie/issues) [![Downloads](https://img.shields.io/pypi/dw/beanie)](https://pypi.org/project/beanie/) [![GitHub last commit](https://img.shields.io/github/last-commit/roman-right/beanie)](https://github.com/roman-right/beanie/commits) 
-- [py2neo](https://github.com/py2neo-org/py2neo): Py2neo is a comprehensive Neo4j driver library and toolkit for Python. 
-
-  [![GitHub stars](https://img.shields.io/github/stars/py2neo-org/py2neo.svg?style=social)](https://github.com/py2neo-org/py2neo) [![GitHub issues](https://img.shields.io/github/issues/py2neo-org/py2neo.svg)](https://github.com/py2neo-org/py2neo/issues) [![Downloads](https://img.shields.io/pypi/dw/py2neo)](https://pypi.org/project/py2neo/) [![GitHub last commit](https://img.shields.io/github/last-commit/py2neo-org/py2neo)](https://github.com/py2neo-org/py2neo/commits) 
 - [prisma-client-py](https://github.com/RobertCraigie/prisma-client-py): Prisma Client Python is an auto-generated and fully type-safe database client designed for ease of use 
 
   [![GitHub stars](https://img.shields.io/github/stars/RobertCraigie/prisma-client-py.svg?style=social)](https://github.com/RobertCraigie/prisma-client-py) [![GitHub issues](https://img.shields.io/github/issues/RobertCraigie/prisma-client-py.svg)](https://github.com/RobertCraigie/prisma-client-py/issues) [![Downloads](https://img.shields.io/pypi/dw/prisma)](https://pypi.org/project/prisma/) [![GitHub last commit](https://img.shields.io/github/last-commit/RobertCraigie/prisma-client-py)](https://github.com/RobertCraigie/prisma-client-py/commits) 
+- [py2neo](https://github.com/py2neo-org/py2neo): Py2neo is a comprehensive Neo4j driver library and toolkit for Python. 
+
+  [![GitHub stars](https://img.shields.io/github/stars/py2neo-org/py2neo.svg?style=social)](https://github.com/py2neo-org/py2neo) [![GitHub issues](https://img.shields.io/github/issues/py2neo-org/py2neo.svg)](https://github.com/py2neo-org/py2neo/issues) [![Downloads](https://img.shields.io/pypi/dw/py2neo)](https://pypi.org/project/py2neo/) [![GitHub last commit](https://img.shields.io/github/last-commit/py2neo-org/py2neo)](https://github.com/py2neo-org/py2neo/commits) 
 - [piccolo](https://github.com/piccolo-orm/piccolo): A fast, user friendly ORM and query builder which supports asyncio. 
 
   [![GitHub stars](https://img.shields.io/github/stars/piccolo-orm/piccolo.svg?style=social)](https://github.com/piccolo-orm/piccolo) [![GitHub issues](https://img.shields.io/github/issues/piccolo-orm/piccolo.svg)](https://github.com/piccolo-orm/piccolo/issues) [![Downloads](https://img.shields.io/pypi/dw/piccolo)](https://pypi.org/project/piccolo/) [![GitHub last commit](https://img.shields.io/github/last-commit/piccolo-orm/piccolo)](https://github.com/piccolo-orm/piccolo/commits) 
@@ -83,4 +83,4 @@ A list of popular github projects related to Python ORMs, ODMs, OGMs (ranked by 
 
   [![GitHub stars](https://img.shields.io/github/stars/kiddouk/redisco.svg?style=social)](https://github.com/kiddouk/redisco) [![GitHub issues](https://img.shields.io/github/issues/kiddouk/redisco.svg)](https://github.com/kiddouk/redisco/issues) [![Downloads](https://img.shields.io/pypi/dw/redisco)](https://pypi.org/project/redisco/) [![GitHub last commit](https://img.shields.io/github/last-commit/kiddouk/redisco)](https://github.com/kiddouk/redisco/commits) 
 
-*Last Automatic Update: 2023-06-04T08:06:54*
+*Last Automatic Update: 2023-06-11T08:06:36*
