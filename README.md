@@ -4,12 +4,12 @@ A list of popular github projects related to Python ORMs, ODMs, OGMs (ranked by 
 - [django](https://github.com/django/django): The Web framework for perfectionists with deadlines. 
 
   [![GitHub stars](https://img.shields.io/github/stars/django/django.svg?style=social)](https://github.com/django/django) [![GitHub issues](https://img.shields.io/github/issues/django/django.svg)](https://github.com/django/django/issues) [![Downloads](https://img.shields.io/pypi/dw/Django)](https://pypi.org/project/Django/) [![GitHub last commit](https://img.shields.io/github/last-commit/django/django)](https://github.com/django/django/commits) 
-- [peewee](https://github.com/coleifer/peewee): a small, expressive orm -- supports postgresql, mysql and sqlite 
-
-  [![GitHub stars](https://img.shields.io/github/stars/coleifer/peewee.svg?style=social)](https://github.com/coleifer/peewee) [![GitHub issues](https://img.shields.io/github/issues/coleifer/peewee.svg)](https://github.com/coleifer/peewee/issues) [![Downloads](https://img.shields.io/pypi/dw/peewee)](https://pypi.org/project/peewee/) [![GitHub last commit](https://img.shields.io/github/last-commit/coleifer/peewee)](https://github.com/coleifer/peewee/commits) 
 - [sqlmodel](https://github.com/tiangolo/sqlmodel): SQL databases in Python, designed for simplicity, compatibility, and robustness. 
 
   [![GitHub stars](https://img.shields.io/github/stars/tiangolo/sqlmodel.svg?style=social)](https://github.com/tiangolo/sqlmodel) [![GitHub issues](https://img.shields.io/github/issues/tiangolo/sqlmodel.svg)](https://github.com/tiangolo/sqlmodel/issues) [![Downloads](https://img.shields.io/pypi/dw/sqlmodel)](https://pypi.org/project/sqlmodel/) [![GitHub last commit](https://img.shields.io/github/last-commit/tiangolo/sqlmodel)](https://github.com/tiangolo/sqlmodel/commits) 
+- [peewee](https://github.com/coleifer/peewee): a small, expressive orm -- supports postgresql, mysql and sqlite 
+
+  [![GitHub stars](https://img.shields.io/github/stars/coleifer/peewee.svg?style=social)](https://github.com/coleifer/peewee) [![GitHub issues](https://img.shields.io/github/issues/coleifer/peewee.svg)](https://github.com/coleifer/peewee/issues) [![Downloads](https://img.shields.io/pypi/dw/peewee)](https://pypi.org/project/peewee/) [![GitHub last commit](https://img.shields.io/github/last-commit/coleifer/peewee)](https://github.com/coleifer/peewee/commits) 
 - [sqlalchemy](https://github.com/sqlalchemy/sqlalchemy): The Database Toolkit for Python 
 
   [![GitHub stars](https://img.shields.io/github/stars/sqlalchemy/sqlalchemy.svg?style=social)](https://github.com/sqlalchemy/sqlalchemy) [![GitHub issues](https://img.shields.io/github/issues/sqlalchemy/sqlalchemy.svg)](https://github.com/sqlalchemy/sqlalchemy/issues) [![Downloads](https://img.shields.io/pypi/dw/SQLAlchemy)](https://pypi.org/project/SQLAlchemy/) [![GitHub last commit](https://img.shields.io/github/last-commit/sqlalchemy/sqlalchemy)](https://github.com/sqlalchemy/sqlalchemy/commits) 
@@ -19,12 +19,12 @@ A list of popular github projects related to Python ORMs, ODMs, OGMs (ranked by 
 - [mongoengine](https://github.com/MongoEngine/mongoengine): A Python Object-Document-Mapper for working with MongoDB 
 
   [![GitHub stars](https://img.shields.io/github/stars/MongoEngine/mongoengine.svg?style=social)](https://github.com/MongoEngine/mongoengine) [![GitHub issues](https://img.shields.io/github/issues/MongoEngine/mongoengine.svg)](https://github.com/MongoEngine/mongoengine/issues) [![Downloads](https://img.shields.io/pypi/dw/mongoengine)](https://pypi.org/project/mongoengine/) [![GitHub last commit](https://img.shields.io/github/last-commit/MongoEngine/mongoengine)](https://github.com/MongoEngine/mongoengine/commits) 
-- [elasticsearch-dsl-py](https://github.com/elastic/elasticsearch-dsl-py): High level Python client for Elasticsearch 
-
-  [![GitHub stars](https://img.shields.io/github/stars/elastic/elasticsearch-dsl-py.svg?style=social)](https://github.com/elastic/elasticsearch-dsl-py) [![GitHub issues](https://img.shields.io/github/issues/elastic/elasticsearch-dsl-py.svg)](https://github.com/elastic/elasticsearch-dsl-py/issues) [![Downloads](https://img.shields.io/pypi/dw/elasticsearch-dsl)](https://pypi.org/project/elasticsearch-dsl/) [![GitHub last commit](https://img.shields.io/github/last-commit/elastic/elasticsearch-dsl-py)](https://github.com/elastic/elasticsearch-dsl-py/commits) 
 - [tortoise-orm](https://github.com/tortoise/tortoise-orm): Familiar asyncio ORM for python, built with relations in mind 
 
   [![GitHub stars](https://img.shields.io/github/stars/tortoise/tortoise-orm.svg?style=social)](https://github.com/tortoise/tortoise-orm) [![GitHub issues](https://img.shields.io/github/issues/tortoise/tortoise-orm.svg)](https://github.com/tortoise/tortoise-orm/issues) [![Downloads](https://img.shields.io/pypi/dw/tortoise-orm)](https://pypi.org/project/tortoise-orm/) [![GitHub last commit](https://img.shields.io/github/last-commit/tortoise/tortoise-orm)](https://github.com/tortoise/tortoise-orm/commits) 
+- [elasticsearch-dsl-py](https://github.com/elastic/elasticsearch-dsl-py): High level Python client for Elasticsearch 
+
+  [![GitHub stars](https://img.shields.io/github/stars/elastic/elasticsearch-dsl-py.svg?style=social)](https://github.com/elastic/elasticsearch-dsl-py) [![GitHub issues](https://img.shields.io/github/issues/elastic/elasticsearch-dsl-py.svg)](https://github.com/elastic/elasticsearch-dsl-py/issues) [![Downloads](https://img.shields.io/pypi/dw/elasticsearch-dsl)](https://pypi.org/project/elasticsearch-dsl/) [![GitHub last commit](https://img.shields.io/github/last-commit/elastic/elasticsearch-dsl-py)](https://github.com/elastic/elasticsearch-dsl-py/commits) 
 - [pony](https://github.com/ponyorm/pony): Pony Object Relational Mapper 
 
   [![GitHub stars](https://img.shields.io/github/stars/ponyorm/pony.svg?style=social)](https://github.com/ponyorm/pony) [![GitHub issues](https://img.shields.io/github/issues/ponyorm/pony.svg)](https://github.com/ponyorm/pony/issues) [![Downloads](https://img.shields.io/pypi/dw/pony)](https://pypi.org/project/pony/) [![GitHub last commit](https://img.shields.io/github/last-commit/ponyorm/pony)](https://github.com/ponyorm/pony/commits) 
@@ -83,4 +83,4 @@ A list of popular github projects related to Python ORMs, ODMs, OGMs (ranked by 
 
   [![GitHub stars](https://img.shields.io/github/stars/kiddouk/redisco.svg?style=social)](https://github.com/kiddouk/redisco) [![GitHub issues](https://img.shields.io/github/issues/kiddouk/redisco.svg)](https://github.com/kiddouk/redisco/issues) [![Downloads](https://img.shields.io/pypi/dw/redisco)](https://pypi.org/project/redisco/) [![GitHub last commit](https://img.shields.io/github/last-commit/kiddouk/redisco)](https://github.com/kiddouk/redisco/commits) 
 
-*Last Automatic Update: 2023-07-16T08:06:50*
+*Last Automatic Update: 2023-07-23T08:06:30*
