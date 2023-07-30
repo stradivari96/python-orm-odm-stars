@@ -52,12 +52,12 @@ A list of popular github projects related to Python ORMs, ODMs, OGMs (ranked by 
 - [piccolo](https://github.com/piccolo-orm/piccolo): A fast, user friendly ORM and query builder which supports asyncio. 
 
   [![GitHub stars](https://img.shields.io/github/stars/piccolo-orm/piccolo.svg?style=social)](https://github.com/piccolo-orm/piccolo) [![GitHub issues](https://img.shields.io/github/issues/piccolo-orm/piccolo.svg)](https://github.com/piccolo-orm/piccolo/issues) [![Downloads](https://img.shields.io/pypi/dw/piccolo)](https://pypi.org/project/piccolo/) [![GitHub last commit](https://img.shields.io/github/last-commit/piccolo-orm/piccolo)](https://github.com/piccolo-orm/piccolo/commits) 
-- [neomodel](https://github.com/neo4j-contrib/neomodel): An Object Graph Mapper (OGM) for the Neo4j graph database. 
-
-  [![GitHub stars](https://img.shields.io/github/stars/neo4j-contrib/neomodel.svg?style=social)](https://github.com/neo4j-contrib/neomodel) [![GitHub issues](https://img.shields.io/github/issues/neo4j-contrib/neomodel.svg)](https://github.com/neo4j-contrib/neomodel/issues) [![Downloads](https://img.shields.io/pypi/dw/neomodel)](https://pypi.org/project/neomodel/) [![GitHub last commit](https://img.shields.io/github/last-commit/neo4j-contrib/neomodel)](https://github.com/neo4j-contrib/neomodel/commits) 
 - [odmantic](https://github.com/art049/odmantic): Sync and Async ODM (Object Document Mapper) for MongoDB based on python type hints 
 
   [![GitHub stars](https://img.shields.io/github/stars/art049/odmantic.svg?style=social)](https://github.com/art049/odmantic) [![GitHub issues](https://img.shields.io/github/issues/art049/odmantic.svg)](https://github.com/art049/odmantic/issues) [![Downloads](https://img.shields.io/pypi/dw/odmantic)](https://pypi.org/project/odmantic/) [![GitHub last commit](https://img.shields.io/github/last-commit/art049/odmantic)](https://github.com/art049/odmantic/commits) 
+- [neomodel](https://github.com/neo4j-contrib/neomodel): An Object Graph Mapper (OGM) for the Neo4j graph database. 
+
+  [![GitHub stars](https://img.shields.io/github/stars/neo4j-contrib/neomodel.svg?style=social)](https://github.com/neo4j-contrib/neomodel) [![GitHub issues](https://img.shields.io/github/issues/neo4j-contrib/neomodel.svg)](https://github.com/neo4j-contrib/neomodel/issues) [![Downloads](https://img.shields.io/pypi/dw/neomodel)](https://pypi.org/project/neomodel/) [![GitHub last commit](https://img.shields.io/github/last-commit/neo4j-contrib/neomodel)](https://github.com/neo4j-contrib/neomodel/commits) 
 - [pydal](https://github.com/web2py/pydal): A pure Python Database Abstraction Layer 
 
   [![GitHub stars](https://img.shields.io/github/stars/web2py/pydal.svg?style=social)](https://github.com/web2py/pydal) [![GitHub issues](https://img.shields.io/github/issues/web2py/pydal.svg)](https://github.com/web2py/pydal/issues) [![Downloads](https://img.shields.io/pypi/dw/pyDAL)](https://pypi.org/project/pyDAL/) [![GitHub last commit](https://img.shields.io/github/last-commit/web2py/pydal)](https://github.com/web2py/pydal/commits) 
@@ -83,4 +83,4 @@ A list of popular github projects related to Python ORMs, ODMs, OGMs (ranked by 
 
   [![GitHub stars](https://img.shields.io/github/stars/kiddouk/redisco.svg?style=social)](https://github.com/kiddouk/redisco) [![GitHub issues](https://img.shields.io/github/issues/kiddouk/redisco.svg)](https://github.com/kiddouk/redisco/issues) [![Downloads](https://img.shields.io/pypi/dw/redisco)](https://pypi.org/project/redisco/) [![GitHub last commit](https://img.shields.io/github/last-commit/kiddouk/redisco)](https://github.com/kiddouk/redisco/commits) 
 
-*Last Automatic Update: 2023-07-23T08:06:30*
+*Last Automatic Update: 2023-07-30T08:06:49*
