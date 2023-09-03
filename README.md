@@ -34,9 +34,6 @@ A list of popular github projects related to Python ORMs, ODMs, OGMs (ranked by 
 - [djongo](https://github.com/doableware/djongo): Django and MongoDB database connector 
 
   [![GitHub stars](https://img.shields.io/github/stars/doableware/djongo.svg?style=social)](https://github.com/doableware/djongo) [![GitHub issues](https://img.shields.io/github/issues/doableware/djongo.svg)](https://github.com/doableware/djongo/issues) [![Downloads](https://img.shields.io/pypi/dw/djongo)](https://pypi.org/project/djongo/) [![GitHub last commit](https://img.shields.io/github/last-commit/doableware/djongo)](https://github.com/doableware/djongo/commits) 
-- [orm](https://github.com/encode/orm): An async ORM. 🗃 
-
-  [![GitHub stars](https://img.shields.io/github/stars/encode/orm.svg?style=social)](https://github.com/encode/orm) [![GitHub issues](https://img.shields.io/github/issues/encode/orm.svg)](https://github.com/encode/orm/issues) [![Downloads](https://img.shields.io/pypi/dw/orm)](https://pypi.org/project/orm/) [![GitHub last commit](https://img.shields.io/github/last-commit/encode/orm)](https://github.com/encode/orm/commits) 
 - [ormar](https://github.com/collerek/ormar): python async orm with fastapi in mind and pydantic validation 
 
   [![GitHub stars](https://img.shields.io/github/stars/collerek/ormar.svg?style=social)](https://github.com/collerek/ormar) [![GitHub issues](https://img.shields.io/github/issues/collerek/ormar.svg)](https://github.com/collerek/ormar/issues) [![Downloads](https://img.shields.io/pypi/dw/ormar)](https://pypi.org/project/ormar/) [![GitHub last commit](https://img.shields.io/github/last-commit/collerek/ormar)](https://github.com/collerek/ormar/commits) 
@@ -73,6 +70,9 @@ A list of popular github projects related to Python ORMs, ODMs, OGMs (ranked by 
 - [gino](https://github.com/python-gino/gino): GINO Is Not ORM - a Python asyncio ORM on SQLAlchemy core. 
 
   [![GitHub stars](https://img.shields.io/github/stars/python-gino/gino.svg?style=social)](https://github.com/python-gino/gino) [![GitHub issues](https://img.shields.io/github/issues/python-gino/gino.svg)](https://github.com/python-gino/gino/issues) [![Downloads](https://img.shields.io/pypi/dw/gino)](https://pypi.org/project/gino/) [![GitHub last commit](https://img.shields.io/github/last-commit/python-gino/gino)](https://github.com/python-gino/gino/commits) 
+- [orm](https://github.com/encode/orm): An async ORM. 🗃 
+
+  [![GitHub stars](https://img.shields.io/github/stars/encode/orm.svg?style=social)](https://github.com/encode/orm) [![GitHub issues](https://img.shields.io/github/issues/encode/orm.svg)](https://github.com/encode/orm/issues) [![Downloads](https://img.shields.io/pypi/dw/orm)](https://pypi.org/project/orm/) [![GitHub last commit](https://img.shields.io/github/last-commit/encode/orm)](https://github.com/encode/orm/commits) 
 - [orator](https://github.com/sdispater/orator): The Orator ORM provides a simple yet beautiful ActiveRecord implementation. 
 
   [![GitHub stars](https://img.shields.io/github/stars/sdispater/orator.svg?style=social)](https://github.com/sdispater/orator) [![GitHub issues](https://img.shields.io/github/issues/sdispater/orator.svg)](https://github.com/sdispater/orator/issues) [![Downloads](https://img.shields.io/pypi/dw/orator)](https://pypi.org/project/orator/) [![GitHub last commit](https://img.shields.io/github/last-commit/sdispater/orator)](https://github.com/sdispater/orator/commits) 
@@ -83,4 +83,4 @@ A list of popular github projects related to Python ORMs, ODMs, OGMs (ranked by 
 
   [![GitHub stars](https://img.shields.io/github/stars/kiddouk/redisco.svg?style=social)](https://github.com/kiddouk/redisco) [![GitHub issues](https://img.shields.io/github/issues/kiddouk/redisco.svg)](https://github.com/kiddouk/redisco/issues) [![Downloads](https://img.shields.io/pypi/dw/redisco)](https://pypi.org/project/redisco/) [![GitHub last commit](https://img.shields.io/github/last-commit/kiddouk/redisco)](https://github.com/kiddouk/redisco/commits) 
 
-*Last Automatic Update: 2023-08-27T08:06:40*
+*Last Automatic Update: 2023-09-03T08:06:35*
