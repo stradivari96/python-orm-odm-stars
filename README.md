@@ -34,12 +34,12 @@ A list of popular github projects related to Python ORMs, ODMs, OGMs (ranked by 
 - [djongo](https://github.com/doableware/djongo): Django and MongoDB database connector 
 
   [![GitHub stars](https://img.shields.io/github/stars/doableware/djongo.svg?style=social)](https://github.com/doableware/djongo) [![GitHub issues](https://img.shields.io/github/issues/doableware/djongo.svg)](https://github.com/doableware/djongo/issues) [![Downloads](https://img.shields.io/pypi/dw/djongo)](https://pypi.org/project/djongo/) [![GitHub last commit](https://img.shields.io/github/last-commit/doableware/djongo)](https://github.com/doableware/djongo/commits) 
-- [ormar](https://github.com/collerek/ormar): python async orm with fastapi in mind and pydantic validation 
-
-  [![GitHub stars](https://img.shields.io/github/stars/collerek/ormar.svg?style=social)](https://github.com/collerek/ormar) [![GitHub issues](https://img.shields.io/github/issues/collerek/ormar.svg)](https://github.com/collerek/ormar/issues) [![Downloads](https://img.shields.io/pypi/dw/ormar)](https://pypi.org/project/ormar/) [![GitHub last commit](https://img.shields.io/github/last-commit/collerek/ormar)](https://github.com/collerek/ormar/commits) 
 - [beanie](https://github.com/roman-right/beanie): Asynchronous Python ODM for MongoDB 
 
   [![GitHub stars](https://img.shields.io/github/stars/roman-right/beanie.svg?style=social)](https://github.com/roman-right/beanie) [![GitHub issues](https://img.shields.io/github/issues/roman-right/beanie.svg)](https://github.com/roman-right/beanie/issues) [![Downloads](https://img.shields.io/pypi/dw/beanie)](https://pypi.org/project/beanie/) [![GitHub last commit](https://img.shields.io/github/last-commit/roman-right/beanie)](https://github.com/roman-right/beanie/commits) 
+- [ormar](https://github.com/collerek/ormar): python async orm with fastapi in mind and pydantic validation 
+
+  [![GitHub stars](https://img.shields.io/github/stars/collerek/ormar.svg?style=social)](https://github.com/collerek/ormar) [![GitHub issues](https://img.shields.io/github/issues/collerek/ormar.svg)](https://github.com/collerek/ormar/issues) [![Downloads](https://img.shields.io/pypi/dw/ormar)](https://pypi.org/project/ormar/) [![GitHub last commit](https://img.shields.io/github/last-commit/collerek/ormar)](https://github.com/collerek/ormar/commits) 
 - [prisma-client-py](https://github.com/RobertCraigie/prisma-client-py): Prisma Client Python is an auto-generated and fully type-safe database client designed for ease of use 
 
   [![GitHub stars](https://img.shields.io/github/stars/RobertCraigie/prisma-client-py.svg?style=social)](https://github.com/RobertCraigie/prisma-client-py) [![GitHub issues](https://img.shields.io/github/issues/RobertCraigie/prisma-client-py.svg)](https://github.com/RobertCraigie/prisma-client-py/issues) [![Downloads](https://img.shields.io/pypi/dw/prisma)](https://pypi.org/project/prisma/) [![GitHub last commit](https://img.shields.io/github/last-commit/RobertCraigie/prisma-client-py)](https://github.com/RobertCraigie/prisma-client-py/commits) 
@@ -83,4 +83,4 @@ A list of popular github projects related to Python ORMs, ODMs, OGMs (ranked by 
 
   [![GitHub stars](https://img.shields.io/github/stars/kiddouk/redisco.svg?style=social)](https://github.com/kiddouk/redisco) [![GitHub issues](https://img.shields.io/github/issues/kiddouk/redisco.svg)](https://github.com/kiddouk/redisco/issues) [![Downloads](https://img.shields.io/pypi/dw/redisco)](https://pypi.org/project/redisco/) [![GitHub last commit](https://img.shields.io/github/last-commit/kiddouk/redisco)](https://github.com/kiddouk/redisco/commits) 
 
-*Last Automatic Update: 2023-09-10T08:06:23*
+*Last Automatic Update: 2023-09-17T08:06:27*
