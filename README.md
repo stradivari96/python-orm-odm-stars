@@ -7,7 +7,7 @@ A list of popular github projects related to Python ORMs, ODMs, OGMs (ranked by 
 - [sqlmodel](https://github.com/tiangolo/sqlmodel): SQL databases in Python, designed for simplicity, compatibility, and robustness. 
 
   [![GitHub stars](https://img.shields.io/github/stars/tiangolo/sqlmodel.svg?style=social)](https://github.com/tiangolo/sqlmodel) [![GitHub issues](https://img.shields.io/github/issues/tiangolo/sqlmodel.svg)](https://github.com/tiangolo/sqlmodel/issues) [![Downloads](https://img.shields.io/pypi/dw/sqlmodel)](https://pypi.org/project/sqlmodel/) [![GitHub last commit](https://img.shields.io/github/last-commit/tiangolo/sqlmodel)](https://github.com/tiangolo/sqlmodel/commits) 
-- [peewee](https://github.com/coleifer/peewee): a small, expressive orm -- supports postgresql, mysql and sqlite 
+- [peewee](https://github.com/coleifer/peewee): a small, expressive orm -- supports postgresql, mysql, sqlite and cockroachdb 
 
   [![GitHub stars](https://img.shields.io/github/stars/coleifer/peewee.svg?style=social)](https://github.com/coleifer/peewee) [![GitHub issues](https://img.shields.io/github/issues/coleifer/peewee.svg)](https://github.com/coleifer/peewee/issues) [![Downloads](https://img.shields.io/pypi/dw/peewee)](https://pypi.org/project/peewee/) [![GitHub last commit](https://img.shields.io/github/last-commit/coleifer/peewee)](https://github.com/coleifer/peewee/commits) 
 - [sqlalchemy](https://github.com/sqlalchemy/sqlalchemy): The Database Toolkit for Python 
@@ -58,9 +58,6 @@ A list of popular github projects related to Python ORMs, ODMs, OGMs (ranked by 
 - [pydal](https://github.com/web2py/pydal): A pure Python Database Abstraction Layer 
 
   [![GitHub stars](https://img.shields.io/github/stars/web2py/pydal.svg?style=social)](https://github.com/web2py/pydal) [![GitHub issues](https://img.shields.io/github/issues/web2py/pydal.svg)](https://github.com/web2py/pydal/issues) [![Downloads](https://img.shields.io/pypi/dw/pyDAL)](https://pypi.org/project/pyDAL/) [![GitHub last commit](https://img.shields.io/github/last-commit/web2py/pydal)](https://github.com/web2py/pydal/commits) 
-- [umongo](https://github.com/Scille/umongo): sync/async MongoDB ODM, yes. 
-
-  [![GitHub stars](https://img.shields.io/github/stars/Scille/umongo.svg?style=social)](https://github.com/Scille/umongo) [![GitHub issues](https://img.shields.io/github/issues/Scille/umongo.svg)](https://github.com/Scille/umongo/issues) [![Downloads](https://img.shields.io/pypi/dw/umongo)](https://pypi.org/project/umongo/) [![GitHub last commit](https://img.shields.io/github/last-commit/Scille/umongo)](https://github.com/Scille/umongo/commits) 
 - [orm](https://github.com/MasoniteFramework/orm): Masonite ORM is a beautiful Python ORM. It's also a nearly drop in replacement of the Orator ORM 
 
   [![GitHub stars](https://img.shields.io/github/stars/MasoniteFramework/orm.svg?style=social)](https://github.com/MasoniteFramework/orm) [![GitHub issues](https://img.shields.io/github/issues/MasoniteFramework/orm.svg)](https://github.com/MasoniteFramework/orm/issues) [![Downloads](https://img.shields.io/pypi/dw/masonite-orm)](https://pypi.org/project/masonite-orm/) [![GitHub last commit](https://img.shields.io/github/last-commit/MasoniteFramework/orm)](https://github.com/MasoniteFramework/orm/commits) 
@@ -79,8 +76,11 @@ A list of popular github projects related to Python ORMs, ODMs, OGMs (ranked by 
 - [mongodb-engine](https://github.com/django-nonrel/mongodb-engine): Django MongoDB Backend 
 
   [![GitHub stars](https://img.shields.io/github/stars/django-nonrel/mongodb-engine.svg?style=social)](https://github.com/django-nonrel/mongodb-engine) [![GitHub issues](https://img.shields.io/github/issues/django-nonrel/mongodb-engine.svg)](https://github.com/django-nonrel/mongodb-engine/issues) [![Downloads](https://img.shields.io/pypi/dw/django-mongodb-engine)](https://pypi.org/project/django-mongodb-engine/) [![GitHub last commit](https://img.shields.io/github/last-commit/django-nonrel/mongodb-engine)](https://github.com/django-nonrel/mongodb-engine/commits) 
+- [umongo](https://github.com/Scille/umongo): sync/async MongoDB ODM, yes. 
+
+  [![GitHub stars](https://img.shields.io/github/stars/Scille/umongo.svg?style=social)](https://github.com/Scille/umongo) [![GitHub issues](https://img.shields.io/github/issues/Scille/umongo.svg)](https://github.com/Scille/umongo/issues) [![Downloads](https://img.shields.io/pypi/dw/umongo)](https://pypi.org/project/umongo/) [![GitHub last commit](https://img.shields.io/github/last-commit/Scille/umongo)](https://github.com/Scille/umongo/commits) 
 - [redisco](https://github.com/kiddouk/redisco): A Python Library for Simple Models and Containers Persisted in Redis  
 
   [![GitHub stars](https://img.shields.io/github/stars/kiddouk/redisco.svg?style=social)](https://github.com/kiddouk/redisco) [![GitHub issues](https://img.shields.io/github/issues/kiddouk/redisco.svg)](https://github.com/kiddouk/redisco/issues) [![Downloads](https://img.shields.io/pypi/dw/redisco)](https://pypi.org/project/redisco/) [![GitHub last commit](https://img.shields.io/github/last-commit/kiddouk/redisco)](https://github.com/kiddouk/redisco/commits) 
 
-*Last Automatic Update: 2023-09-17T08:06:27*
+*Last Automatic Update: 2023-09-24T08:06:41*
