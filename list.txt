@@ -13,7 +13,6 @@ https://github.com/neo4j-contrib/neomodel neomodel
 https://github.com/piccolo-orm/piccolo piccolo
 https://github.com/ponyorm/pony pony
 https://github.com/pudo/dataset dataset
-https://github.com/py2neo-org/py2neo py2neo
 https://github.com/pynamodb/PynamoDB pynamodb
 https://github.com/python-gino/gino gino
 https://github.com/RobertCraigie/prisma-client-py prisma
